@@ -1,3 +1,5 @@
 'Pricing Analysis.ipynb'
 credentials*
 token*
+.ipynb_checkpoints
+__pychache__
